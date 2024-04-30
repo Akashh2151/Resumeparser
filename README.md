@@ -12,12 +12,15 @@ bash
 Copy code
 # Example of setup and usage commands
 git clone https://github.com/Akashh2151/Resumeparser
-cd resume-parser
+
+cd Resumeparser
+
 pip install -r requirements.txt
-python parser.py
+
+python Resumeparser.py
+
 Contributing
 We welcome contributions to improve the accuracy and functionality of the resume parser. Please feel free to fork the repository, make changes, and submit a pull request with your improvements.
-
 For more information on how to contribute, please refer to our contributing guidelines.
 
 License
